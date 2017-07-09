@@ -1,0 +1,20 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Cheng Zheng
+email: chengzheng.apply@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Hi, My name is Cheng Zheng, I am a Ruby on Rails developer
+  
+url: "http://1c7.me" # the base hostname & protocol for your site
+twitter_username: 1c7_code
+github_username:  1c7
+
+# Build settings
+markdown: kramdown
+encoding: utf-8
