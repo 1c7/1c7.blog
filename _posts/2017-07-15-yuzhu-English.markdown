@@ -66,4 +66,16 @@ it’s free, just click city name, and it would return a list of brands in that 
 
 
 <br/>
-Thank you for reading.
+## Thanks for reading.
+<br/>
+
+
+
+#### some extre info
+Ruby on Rails + jQuery + Bootstrap.  
+Not using AWS, using UCloud (you can think of it as Chinese version AWS).   
+Traffic data(Launch at July 11, Data is log here at July 15):   
+180 -> 500 -> 500 -> 240    
+180(July 11)  -> 500(July 12) -> 500(July 13) 240(July 14)
+
+Using: Mixpanel, Rollbar, HotJar, Drift.(All free)
