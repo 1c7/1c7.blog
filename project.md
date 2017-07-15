@@ -26,7 +26,8 @@ I hate the feeling of waste time and get nothing done. I created this website an
 <br/>
 
 ###  <img src="/images/fav2.png" style='height: 20px; width: 20px;'>  2. Reco
-it's nginx config is wrong and direct you to my 4th project, I'm gonna fix it soon
+just as Sum up, I wrote this in 2016, since then I learn a lot about what's a good landing page.  
+I would make a better landing page once I have time.  
 #### <a href="http://onereco.com/" target="_blank">http://onereco.com/</a>  (Free)
 I read ton of article & watch ton of video, very small percentage of them is really good, I want write a little piece about what's it about, if other interested they can click original link to get more detail. I just want share great stuff with people.   
 ##### (Ruby on Rails)
