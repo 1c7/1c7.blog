@@ -1,0 +1,733 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1c7 blog</title>
+    <description>Hi, I'm Cheng Zheng, Web developer(mostly Ruby on Rails）
+</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 04 Aug 2017 21:31:51 +0800</pubDate>
+    <lastBuildDate>Fri, 04 Aug 2017 21:31:51 +0800</lastBuildDate>
+    <generator>Jekyll v3.5.0</generator>
+    
+      <item>
+        <title>HEY! I am making some vlog - would upload to Youtube soon</title>
+        <description>&lt;p&gt;I living in GuangZhou, and because of luck (I participate a event that allow me do that, more about that would be in Video)&lt;/p&gt;
+
+&lt;h3 id=&quot;i-visited-5-incubatorco-working-space-in-guangzhou&quot;&gt;I visited 5 incubator/co-working space in GuangZhou.&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/images/vlog/map-1.png&quot; alt=&quot;monday visit&quot; /&gt; 
+&lt;img src=&quot;/images/vlog/map-2.png&quot; alt=&quot;monday visit&quot; /&gt; 
+&lt;img src=&quot;/images/vlog/map-3.png&quot; alt=&quot;monday visit&quot; /&gt; 
+&lt;img src=&quot;/images/vlog/map-4.png&quot; alt=&quot;monday visit&quot; /&gt; 
+&lt;img src=&quot;/images/vlog/map-5.png&quot; alt=&quot;monday visit&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;the tool I use to mark these place look like this:&lt;br /&gt;
+&lt;img src=&quot;/images/vlog/map-end.png&quot; alt=&quot;monday visit&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Monday - 2017, July, 24  &lt;br /&gt;
+&lt;img src=&quot;/images/vlog/day1.jpg&quot; alt=&quot;monday visit&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Tuesday - 2017, July, 25&lt;br /&gt;
+&lt;img src=&quot;/images/vlog/day2.jpg&quot; alt=&quot;monday visit&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Wednesday - 2017, July, 26&lt;br /&gt;
+&lt;img src=&quot;/images/vlog/day3.jpg&quot; alt=&quot;monday visit&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Thursday - 2017, July, 27 &lt;br /&gt;
+&lt;img src=&quot;/images/vlog/day4.jpg&quot; alt=&quot;monday visit&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Friday - 2017, July, 28  &lt;br /&gt;
+&lt;img src=&quot;/images/vlog/day5.jpg&quot; alt=&quot;monday visit&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I think these are pretty fun, so I film some video with my phone,&lt;br /&gt;
+I didn’t wrote any script beforehand, I have 0 experience in video editing/film making/vlog.&lt;/p&gt;
+
+&lt;p&gt;I am still edting it, trying to make it fun &amp;amp; short.   &lt;br /&gt;
+basically it just me walking around these place,&lt;br /&gt;
+after watch these video you would know where it is, and how’s the inside look like.&lt;br /&gt;
+it just show how the startup environment look like in GuangZhou.&lt;/p&gt;
+
+&lt;p&gt;it’s not like Casey Neistat talk to camera, I wouln’t appear in video at all.  &lt;br /&gt;
+&lt;img src=&quot;https://media.giphy.com/media/8AqiNn4BZ371e/giphy.gif&quot; alt=&quot;Casey Neistat mic drop gif&quot; /&gt;   &lt;br /&gt;
+I would make some voice over explain thing.&lt;/p&gt;
+
+&lt;p&gt;here’s my gear:&lt;br /&gt;
+&lt;img src=&quot;/images/vlog/gear.jpg&quot; alt=&quot;my camera gear image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;that’s it.&lt;br /&gt;
+&lt;img src=&quot;https://media.giphy.com/media/26FPOogenQv5eOZHO/giphy.gif&quot; alt=&quot;Thank you gif&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 04 Aug 2017 20:20:00 +0800</pubDate>
+        <link>http://localhost:4000/2017/08/04/I-am-making-some-vlog-kind-of.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/08/04/I-am-making-some-vlog-kind-of.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>I am closing Yuzhu - temporarily (not boring text post, there 3 gif in post, 3!!)</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://media.giphy.com/media/3ofSB1CnQlcgtJQ4dW/giphy.gif&quot; alt=&quot;I have some bad news gif&quot; /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;i-need-shut-down-yuzhume-for-about-5-30-day-not-sure&quot;&gt;I need shut down yuzhu.me for about 5-30 day. not sure.&lt;/h3&gt;
+&lt;p&gt;don’t worry, it just temporarily.    &lt;br /&gt;
+not because the product suck &amp;amp; doesn’t make money &amp;amp; cost me a lot money.&lt;br /&gt;
+it just because government told me to.&lt;/p&gt;
+
+&lt;p&gt;I just got a call this afternoon from gov, tell me to “备案” my website, and before it’s done, I should shut it down temporarily.&lt;br /&gt;
+it just policy, everyone is doing it, I am not special.&lt;/p&gt;
+
+&lt;h3 id=&quot;in-china-there-are-a-special-thing-call-备案&quot;&gt;in China there are a special thing call “备案”&lt;/h3&gt;
+&lt;p&gt;（I guess “filing” is appropriate translation ?）  &lt;br /&gt;
+it mean I have to submit to gov about:  &lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;who I am (by submit ID card number &amp;amp; photo) (it’s like the SSN number in U.S.)&lt;/li&gt;
+  &lt;li&gt;what is the domain name,&lt;/li&gt;
+  &lt;li&gt;phone number&lt;/li&gt;
+  &lt;li&gt;email&lt;/li&gt;
+  &lt;li&gt;what I am gonna do (game? education? travel-relate product?)&lt;/li&gt;
+  &lt;li&gt;home address or office address,&lt;/li&gt;
+  &lt;li&gt;etc..&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;and it’s not just type these thing into a form and done. not something that take 5 minute.&lt;/p&gt;
+
+&lt;p&gt;I have to take photo of myself too. &lt;br /&gt;
+the entire process would take about 5 day to a month. they would review all the document I submit.    &lt;br /&gt;
+and the mean time, I have to close website (by delete DNS A record ) &lt;br /&gt;
+&lt;img src=&quot;https://media.giphy.com/media/3oz8xEgf0wV8UGL5y8/giphy.gif&quot; alt=&quot;boring gif&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;yep-pretty-frustrating&quot;&gt;yep, pretty frustrating,&lt;/h3&gt;
+&lt;p&gt;and it’s not about server provider or domain register,  &lt;br /&gt;
+I am using NameCheap and UCloud (you can think of UCloud as China AWS) &lt;br /&gt;
+even I use Digital Ocean/Linode/AWS + Namecheap/Godaddy/domain.com&lt;/p&gt;
+
+&lt;p&gt;gov would still try to contact me and tell me fill the form,  &lt;br /&gt;
+if they can’t contact me or I just refused to fill the form,&lt;br /&gt;
+they would just block the website. &lt;br /&gt;
+unless you use Proxy, otherwise you can’t visit it directly in China.&lt;/p&gt;
+
+&lt;h3 id=&quot;thats-it-this-post-just-an-annocement&quot;&gt;that’s it, this post just an annocement.&lt;/h3&gt;
+&lt;p&gt;I think most people doesn’t know such thing exist in China, that’s why I wrote this post.&lt;br /&gt;
+it’s quite annoying and not “startup-friendly”, it just slow down the company by 5-30 day.&lt;/p&gt;
+
+&lt;p&gt;Have a nice day! Thanks for reading.
+:D&lt;/p&gt;
+
+&lt;h3 id=&quot;oh-right-let-me-write-a-quick-update-about-yuzhume&quot;&gt;oh, right, let me write a quick update about yuzhu.me&lt;/h3&gt;
+&lt;p&gt;it’s about a month now (July, 11 - August, 4), total visitor is ~3k .&lt;/p&gt;
+
+&lt;p&gt;I am adding map, forum, chat room, and review, I don’t want get too much attation.  &lt;br /&gt;
+because right now it’s still relatively simple website, other people can clone it within couple day.&lt;/p&gt;
+
+&lt;p&gt;so after first couple day I did some marketing, I didn’t do any marketing after that.&lt;br /&gt;
+so 3k is kind of OK.&lt;/p&gt;
+
+&lt;p&gt;the feedback I get from people is awesome, they like it a lot.(not sure how much they willing to pay for it)&lt;br /&gt;
+I am still trying to provide more value before think of a way to make money, to monetize.&lt;/p&gt;
+
+&lt;p&gt;that’s it.
+&lt;img src=&quot;https://media.giphy.com/media/26gsjCZpPolPr3sBy/giphy.gif&quot; alt=&quot;thank you gif&quot; /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 04 Aug 2017 19:54:00 +0800</pubDate>
+        <link>http://localhost:4000/2017/08/04/close-yuzhu-temporarily.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/08/04/close-yuzhu-temporarily.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Yuzhu - Find Apartment in China（My 4th side project) - Launched at July 11, 2017</title>
+        <description>&lt;p&gt;This post is written 4 day after launched.&lt;/p&gt;
+
+&lt;h1 id=&quot;first-link-here&quot;&gt;First, link here:&lt;/h1&gt;
+&lt;h4 id=&quot;httpyuzhume&quot;&gt;&lt;a href=&quot;http://yuzhu.me&quot; target=&quot;_blank&quot;&gt;http://yuzhu.me&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;(Free and no monetize plan yet) &lt;br /&gt;
+&lt;img src=&quot;/images/yuzhu/yuzhu-landing-top.jpg&quot; alt=&quot;yuzhu landing page, top section&quot; /&gt;
+I just build it to solve my own problem first, and release it see what happen)
+it look like this:&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;what-problem-it-solve--super-short-explain&quot;&gt;What problem it solve?  (super short explain)&lt;/h3&gt;
+&lt;p&gt;Find “Serviced Apartment” in China. filter apartment base on city.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;a-bit-of-intro&quot;&gt;A bit of Intro&lt;/h3&gt;
+&lt;p&gt;Even though the website (yuzhu.me) is in Chinese and this post is in English, if you are reading this you probably don’t know Chinese and you guys may not even be my “target user”(air quote).&lt;/p&gt;
+
+&lt;p&gt;but doesn’t matter.  &lt;br /&gt;
+I just wanna discuss this with you guys and know what you think… any feedback / advice is welcome, Thank you!&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;why-build-this-there-are-no-exist-solution&quot;&gt;Why build this? there are no exist solution?&lt;/h3&gt;
+&lt;p&gt;nope.&lt;br /&gt;
+Assume you want rent a place to live in China. (not just couple day, more then a month)&lt;/p&gt;
+
+&lt;p&gt;There are 2 type of place you can choose    &lt;br /&gt;
+(Ignore Airbnb &amp;amp; Hotel here, they are for tourist &amp;amp; short-term, not for long-term, unless you are rich)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;First type&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;p&gt;just normal people rent out their own house. we all familiar with this. &lt;br /&gt;
+in US, people probably use CraigList for this. I am not sure, I am Chinese, never been to U.S before.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Second type&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;p&gt;“Serviced Apartment”. Company rent entire building for maybe 5 to 10 years.&lt;br /&gt;
+they decorate all these rooms, make it look &amp;amp; feel like hotel (or just generally beautiful), &lt;br /&gt;
+you don’t have to buy any furniture. &lt;br /&gt;
+they provide service like regular clean up, maybe some public working space, or sharing kitchen.&lt;br /&gt;
+these company have their brand name, like “You+”  (Their website: &lt;a href=&quot;https://www.youplus.cc/&quot; target=&quot;_blank&quot;&gt;https://www.youplus.cc/&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Question: How to find out how many brands there is in a particular city?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;if you are trying to rent an Serviced Apartment in GuangZhou(City name)&lt;br /&gt;
+You probably doesn’t care their brand, you just want a list.&lt;br /&gt;
+a list of all these brands in GuangZhou. &lt;br /&gt;
+How do you do it?&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;After some research, I found out there are no existing tool can solve this problem. (which is strange)&lt;br /&gt;
+so I just build this myself.
+&lt;img src=&quot;/images/yuzhu/yuzhu-feature.png&quot; alt=&quot;yuzhu landing page, the part that have actual useful function&quot; /&gt;
+it’s free, just click city name, and it would return a list of brands in that city.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;thanks-for-reading&quot;&gt;Thanks for reading.&lt;/h2&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;some-extre-info&quot;&gt;some extre info&lt;/h4&gt;
+&lt;p&gt;Ruby on Rails + jQuery + Bootstrap.&lt;br /&gt;
+Not using AWS, using UCloud (you can think of it as Chinese version AWS). &lt;br /&gt;
+Traffic data(Launch at July 11, Data is log here at July 15): &lt;br /&gt;
+180 -&amp;gt; 500 -&amp;gt; 500 -&amp;gt; 240  &lt;br /&gt;
+180(July 11)  -&amp;gt; 500(July 12) -&amp;gt; 500(July 13) 240(July 14)&lt;/p&gt;
+
+&lt;p&gt;Using: Mixpanel, Rollbar, HotJar, Drift.(All free)&lt;/p&gt;
+</description>
+        <pubDate>Sat, 15 Jul 2017 22:15:00 +0800</pubDate>
+        <link>http://localhost:4000/2017/07/15/yuzhu-English.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/07/15/yuzhu-English.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>寓住 - 根据城市筛选公寓（我的第 4 个项目）</title>
+        <description>&lt;h4 id=&quot;httpyuzhume&quot;&gt;&lt;a href=&quot;http://yuzhu.me&quot; target=&quot;_blank&quot;&gt;http://yuzhu.me&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h3 id=&quot;我碰到的问题-或者说换句话说我为什么写这个&quot;&gt;我碰到的问题 (或者说换句话说”我为什么写这个”)&lt;/h3&gt;
+
+&lt;p&gt;我需要去一个新城市，那么租房子是必须的，除了普通的渠道之外（58，安居客，线下各种中介等等）。
+租公寓也是一种选择，我还从来没有租过公寓呢。
+如果你不知道公寓是什么，大致来说就是人家都装修好了，然后提供一些额外服务比如可能有一些公共空间，也许会有一些活动。
+也许会有公共健身房之类的。等等一些其他服务。&lt;br /&gt;
+但对我来说我最想要的就是不用装修拎包入住，不用担心缺了什么家具/生活用具要去自己买，而且好看。&lt;/p&gt;
+
+&lt;p&gt;如果你需要例子来具体了解一下公寓的定义，可以点这里：
+&lt;a href=&quot;https://shimo.im/sheet/DyKf91OkXE4YXSuD&quot; target=&quot;_blank&quot;&gt;一个石墨文档的链接&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;但是&quot;&gt;但是&lt;/h3&gt;
+&lt;p&gt;我找不到任何一个网站可以让我根据城市来筛选公寓，我根本不在乎是什么品牌，我就希望知道那个城市有什么公寓，
+然后我自己去调查然后做租房决定就好了。&lt;/p&gt;
+
+&lt;h3 id=&quot;所以&quot;&gt;所以&lt;/h3&gt;
+&lt;p&gt;我花了几天时间把这个简单的网站写出来了。希望对你有帮助。&lt;/p&gt;
+
+&lt;p&gt;就这样，没了。感谢阅读。&lt;/p&gt;
+</description>
+        <pubDate>Sun, 09 Jul 2017 21:44:00 +0800</pubDate>
+        <link>http://localhost:4000/2017/07/09/yuzhu.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/07/09/yuzhu.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>6 Startups in 12 month</title>
+        <description>&lt;p&gt;Hi, My name is Cheng Zheng.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I am gonna force myself (2017-July to 2018-July) Come up with idea, validate &amp;amp; build  &amp;amp; launch&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;every-2-month&quot;&gt;Every 2 month&lt;/h2&gt;
+&lt;p&gt;the reason for that is because 1 month is too short for me to actually done something.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;I am super inspire by the Nomad List &lt;a href=&quot;https://levels.io/12-startups-12-months/&quot;&gt;“I’m Launching 12 Startups in 12 Months”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;also the &lt;a href=&quot;https://www.indiehackers.com/businesses&quot;&gt;Indie Hacker Interview&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;I am not just recently “discover” them, I watch these for quite some time now.&lt;/p&gt;
+
+&lt;p&gt;Paul Graham, YC(blog), Sam Altman, Courtland Allen, Instapaintng, people’s post in IH forum. Product Hunt, Slack: startupstudygroup, Sideproject, zero2growth.
+ bunch of YC video on Youtube, «Start Small Stay Small», Hacker News(Ask HN/Show HN)&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;I am 22, Web developer with 2 years experience, (first year PHP, second year Ruby on Rails, and I am gonna continue use RoR)&lt;/p&gt;
+
+&lt;p&gt;weak on Front-End (only know jQuery)(Working on it, Ember.js + React.js)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I really like the idea of make a product people like, and people pay for the product. and I can make living on that.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I have done onsite job, remote job, now I want more freedom.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;i-just-wanna-push-myself-at-least-do-something-by-writing-this-post&quot;&gt;I just wanna push myself at least do something by writing this post.&lt;/h3&gt;
+&lt;h3 id=&quot;blog-is-like-some-kind-of-public-commitment&quot;&gt;blog is like some kind of public commitment.&lt;/h3&gt;
+&lt;h3 id=&quot;i-would-update-my-project-in-this-post&quot;&gt;I would update my project in this post.&lt;/h3&gt;
+&lt;h2 id=&quot;if-you-are-interesting-in-my-progressmailchimp&quot;&gt;If you are interesting in my progress(MailChimp):&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;http://eepurl.com/cT76w5&quot;&gt;http://eepurl.com/cT76w5&lt;/a&gt;
+I am not gonna send any BS to you.&lt;/p&gt;
+
+&lt;p&gt;Use MailChimp is for save your time, you don’t need check this blog daily/weekly/monthly at all, not gonna miss out any important stuff.&lt;/p&gt;
+
+&lt;h2 id=&quot;thank-you-and-thats-all&quot;&gt;Thank you, and that’s all.&lt;/h2&gt;
+</description>
+        <pubDate>Tue, 27 Jun 2017 19:27:43 +0800</pubDate>
+        <link>http://localhost:4000/2017/06/27/12-month-6-project.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/06/27/12-month-6-project.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>ssh 使用 shadowsocks 加速</title>
+        <description>&lt;h3 id=&quot;问题&quot;&gt;问题&lt;/h3&gt;
+
+&lt;p&gt;国内 ssh 国外的 vps 服务器,　要么死慢死慢(300ms+),　要么完全连不上.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;解决方法-环境-ubuntu-1604&quot;&gt;解决方法 (环境: Ubuntu 16.04):&lt;/h3&gt;
+
+&lt;p&gt;首先本地的 shadowssock 要跑起来&lt;br /&gt;
+我用的是 shadowssock-qt 就是那个绿色圆圈图标的&lt;br /&gt;
+安装 shadowssock-qt:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo add-apt-repository ppa:hzwhuang/ss-qt5
+sudo apt-get update
+sudo apt-get install shadowsocks-qt5
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;第 1 步&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;touch ~/.ssh/config  
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;新建这个配置文件&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;第 2 步&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;vim ~/.ssh/config  
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;vim 命令就是编辑这个文件&lt;/p&gt;
+
+&lt;p&gt;按 &lt;code class=&quot;highlighter-rouge&quot;&gt;i&lt;/code&gt; 进入编辑模式, 在这个文件里面写:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;ProxyCommand nc -x localhost:1080 %h %p  
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;p&gt;按 ESC 回到命令模式&lt;br /&gt;
+然后 &lt;code class=&quot;highlighter-rouge&quot;&gt;:wq&lt;/code&gt;　保存&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;现在就快多了&lt;br /&gt;
+不需要的时候在前面加上 # 号注释掉, 需要的时候再打开&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 04 Aug 2016 16:41:01 +0800</pubDate>
+        <link>http://localhost:4000/2016/08/04/ubuntu-16.04-ssh-remote-server-use-socks-proxy-to-speed-up.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/08/04/ubuntu-16.04-ssh-remote-server-use-socks-proxy-to-speed-up.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Jekyll 写中文报错 utf-8</title>
+        <description>&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;a@ubuntu:~/Desktop/1c7.github.io$ jekyll serve --host=0.0.0.0
+Configuration file: /home/a/Desktop/1c7.github.io/_config.yml
+            Source: /home/a/Desktop/1c7.github.io
+       Destination: /home/a/Desktop/1c7.github.io/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+             Error: could not read file /home/a/Desktop/1c7.github.io/_posts/2016-08-03-ubuntu 16.04 ssh remote server use socks proxy to speed up.markdown: invalid byte sequence in UTF-8
+  Liquid Exception: invalid byte sequence in UTF-8 in /home/a/Desktop/1c7.github.io/_posts/2016-08-03-ubuntu 16.04 ssh remote server use socks proxy to speed up.markdown
+jekyll 3.1.6 | Error:  invalid byte sequence in UTF-8
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;解决方法:&lt;br /&gt;
+&lt;code class=&quot;highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt; 里最后一行加上 &lt;code class=&quot;highlighter-rouge&quot;&gt;encoding: utf-8&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;然后 markdown 文件以 utf-8 格式另存, 覆盖掉原来的文件即可 (我用的gedit)&lt;/p&gt;
+
+&lt;p&gt;我的环境是 &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll 3.1.6&lt;/code&gt; + &lt;code class=&quot;highlighter-rouge&quot;&gt;Ubuntu16.04&lt;/code&gt; 管用&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 04 Aug 2016 16:41:01 +0800</pubDate>
+        <link>http://localhost:4000/2016/08/04/Jekyll-utf-8-error.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/08/04/Jekyll-utf-8-error.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Soluation to Rails assest precompile cause server CPU usage too high</title>
+        <description>&lt;p&gt;I was using Mina to deploy Rails project to Digital Ocean VPS (1GB memory)&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;in mina &lt;code class=&quot;highlighter-rouge&quot;&gt;confir/deploy.rb&lt;/code&gt; file&lt;br /&gt;
+there are one line:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;invoke :'rails:assets_precompile'
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;p&gt;it mean precompile assest file on server&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;this it take way too long&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;I, [2016-08-03T01:58:08.085687 #26033]  INFO -- : Writing /var/www/FS/tmp/build-147020368219820/public/assets/bootstrap.min-a624ed6e3c01894e8daa1456e852c26ce1ab4e8d52dcfd9ee4055395c9d39e5c.js
+I, [2016-08-03T01:58:08.086095 #26033]  INFO -- : Writing /var/www/FS/tmp/build-147020368219820/public/assets/bootstrap.min-a624ed6e3c01894e8daa1456e852c26ce1ab4e8d52dcfd9ee4055395c9d39e5c.js.gz
+-----&amp;gt; Cleaning up old releases (keeping 5)
+-----&amp;gt; Deploy finished
+-----&amp;gt; Building
+-----&amp;gt; Moving build to releases/12
+-----&amp;gt; Build finished
+-----&amp;gt; Launching
+-----&amp;gt; Updating the current symlink
+-----&amp;gt; Launching
+Command phased-restart sent success
+-----&amp;gt; Done. Deployed v12
+Connection to 107.170.237.232 closed.
+       Elapsed time: 215.61 seconds
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;And most importantly when I run &lt;code class=&quot;highlighter-rouge&quot;&gt;ps aux&lt;/code&gt; &lt;br /&gt;
+Node.js take 97~100% CPU &lt;br /&gt;
+WTF&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;soluation&quot;&gt;Soluation:&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Upgrade you VPS memory (we choose this, upgrade from 1GB -&amp;gt; 2GB)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Precompile localy push to Github and then deploy ( tried, work fine )&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Create SWAP Space on Ubuntu ( tried, but not working on me )&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;I saw the third soluation from here: &lt;br /&gt;
+&lt;a href=&quot;http://stackoverflow.com/questions/22272339/rake-assetsprecompile-gets-killed-when-there-is-a-console-session-open-in-produ&quot;&gt;http://stackoverflow.com/questions/22272339/rake-assetsprecompile-gets-killed-when-there-is-a-console-session-open-in-produ&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;if you got better soluation, please comment let me know, thanks&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 03 Aug 2016 16:39:00 +0800</pubDate>
+        <link>http://localhost:4000/2016/08/03/Soluation-to-Assest-Precompile-cause-server-CPU-usage-too-high.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/08/03/Soluation-to-Assest-Precompile-cause-server-CPU-usage-too-high.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>How I feel after switch from PHP to Ruby on Rails (6 month now)</title>
+        <description>&lt;h5 id=&quot;estimate-reading-time-6-minute&quot;&gt;Estimate reading time: 6 minute&lt;/h5&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;I have been PHP developer for little bit more than a year (2014~2015, December).&lt;br /&gt;
+(CodeIgniter, ThinkPHP, pure PHP)&lt;/p&gt;
+
+&lt;p&gt;not really happy period, just feel… ok.&lt;/p&gt;
+
+&lt;p&gt;and then I switch to Ruby on Rails, (2016,January~now) feel much happier now.   &lt;br /&gt;
+let me tell you why&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;1-database-schema-synchronization&quot;&gt;1. Database schema synchronization&lt;/h3&gt;
+
+&lt;p&gt;Situation: you work with one other developer, two people in total.&lt;/p&gt;
+
+&lt;p&gt;PHP&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;[You]:
+  1. trying to implement a new feature, you need new field in table
+
+  2. Write SQL or use some tool(SQLyog) to generate SQL: `CREATE TABLE user{ }`
+
+  3. copy &amp;amp; paste into phpMyAdmin, Pass, no SQL syntax error  
+
+  4. copy &amp;amp; paste into a place both people can visit, probably Github Wiki  
+
+
+[The other guy]:
+
+  1. git pull
+
+  2. error in browser? field close_time not exist? 
+    &quot;I think he/she change database schema&quot;
+
+  3. go to Github Wiki, &quot;Yep, he/she changed that.&quot;
+  	copy &amp;amp; paste SQL code into phpMyAdmin or any other SQL client software  
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Rails&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-Ruby&quot;&gt;[You]:
+
+  1. rails g migration add_something_to_some_model / rails g model User
+  2. rake db:migrate
+
+
+[The other guy]:
+
+  1. (in browser) pending migration error?
+  2. rake db:migrate
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;done!&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;2-relation&quot;&gt;2. Relation&lt;/h3&gt;
+
+&lt;p&gt;PHP&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;  Define and remember it at database level
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Rails&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;  has_one
+  has_many
+  belongs_to
+  has_and_belongs_to_many
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;3-deploy&quot;&gt;3. Deploy&lt;/h3&gt;
+
+&lt;p&gt;PHP&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;  1. Open up FTP client like 'FileZilla'
+
+  2. Remember which file you have changed
+  
+  3. Upload these file and cross finger hope you didn't miss any file 
+	or acciently overwrite file that you shouln't overwrite  
+
+  4. No Rollback, You have to manually upload previous version file  
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Rails&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;  1. git push
+
+  2. mina deploy
+
+  3. things goes wrong?   mina deploy:rollback
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;p&gt;done!&lt;br /&gt;
+You can use Capistrano or &lt;a href=&quot;https://github.com/mina-deploy/mina&quot;&gt;Mina&lt;/a&gt; to deploy your project, 
+I have try both, Mina is better for me&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;4-conclusion&quot;&gt;4. Conclusion&lt;/h3&gt;
+&lt;p&gt;here just my feeling. for me, Rails make me a lot happier,&lt;br /&gt;
+the syntax of Ruby, the simplicity of Rails Active Record&lt;/p&gt;
+
+&lt;p&gt;I don’t want argue that, Ruby on Rails is 100% better than PHP or what,&lt;br /&gt;
+argue that is just like argue what music or food is the best.   &lt;br /&gt;
+everyone got a favorite.&lt;/p&gt;
+
+&lt;p&gt;but, for me, Rails make me much more productive and make me a much happier web developer&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;5-btw-by-the-way&quot;&gt;5. btw (by the way)&lt;/h3&gt;
+&lt;p&gt;My experience is not just Rails and PHP&lt;/p&gt;
+
+&lt;p&gt;I have try a lot of other language and framework:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Node.js:     Express    
+Python:      Flask, Django, CherryPy, Bottle.py, Web.py, Tornado     
+PHP:         CodeIgniter, ThinkPHP  
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;I still think Rails is the best among all of them.&lt;/p&gt;
+
+&lt;p&gt;(I heard about &lt;a href=&quot;http://koajs.com/&quot;&gt;Koa.js&lt;/a&gt; is awesome but I haven’t try it)&lt;/p&gt;
+
+&lt;h4 id=&quot;for-php-developer&quot;&gt;For PHP developer:&lt;/h4&gt;
+
+&lt;p&gt;I heard about a PHP framework call &lt;a href=&quot;https://laravel.com/&quot;&gt;Laravel&lt;/a&gt; that feel like Rails but I have never try it&lt;br /&gt;
+so I am not sure how good it is, &lt;br /&gt;
+If you still don’t want switch to Rails, maybe you should check that out.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;6-my-current-status-2016-august&quot;&gt;6. My current status (2016, August)&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Just finish two side project (All by my own, idea, design, code):&lt;br /&gt;
+&lt;a href=&quot;https://www.onereco.com/&quot;&gt;OneReco&lt;/a&gt; and &lt;a href=&quot;http://www.youtube-sumup.com/&quot;&gt;Sumup&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Side project: &lt;br /&gt;
+working with 4 other people on a side project call “FrontSeat”  &lt;br /&gt;
+(I would put a link here once it we finish beta version)  &lt;br /&gt;
+(it’s a educational project)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Job:  &lt;br /&gt;
+Looking for Ruby on Rails REMOTE position (I am living in China right now)&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;one-last-thing-imaging-steve-jobs-voice&quot;&gt;One last thing (Imaging Steve Jobs voice)&lt;/h4&gt;
+&lt;p&gt;I am not a native english speaker, so if I got grammar error, &lt;br /&gt;
+please point out, help me improve. Thanks&lt;/p&gt;
+</description>
+        <pubDate>Sun, 31 Jul 2016 10:41:01 +0800</pubDate>
+        <link>http://localhost:4000/2016/07/31/How-I-feel-after-switch-from-PHP-to-Ruby-on-Rails.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/07/31/How-I-feel-after-switch-from-PHP-to-Ruby-on-Rails.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>What gem you should know as a Rails newbie</title>
+        <description>&lt;h5 id=&quot;estimate-reading-time-2-minute-21-second-220-milliseconds&quot;&gt;Estimate reading time: 2 minute, 21 second, 220 milliseconds&lt;/h5&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;target-reader-people-who-just-finish-rails-101-tutorial&quot;&gt;Target reader: People who just finish Rails 101 tutorial.&lt;/h3&gt;
+&lt;p&gt;by 101, I mean general introduction tutorial, probably the offcial Rails guide, or video on Youtube.&lt;br /&gt;
+maybe some Blog.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Well, now you want learn more,   &lt;br /&gt;
+You may be thinking, what gem are people using?   &lt;br /&gt;
+here’s a list of gem I think you should know.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;database&quot;&gt;Database&lt;/h3&gt;
+&lt;p&gt;SQLite is for Small website,&lt;br /&gt;
+if you want grow bigger than that,&lt;br /&gt;
+you need MySQL or PostgreSQL or some other DB (maybe MongoDB or RethinkDB?)&lt;/p&gt;
+
+&lt;p&gt;for MySQL you should use gem &lt;a href=&quot;https://rubygems.org/gems/mysql2&quot;&gt;mysql2&lt;/a&gt;  &lt;br /&gt;
+for PostgreSQL you should use gem &lt;a href=&quot;https://rubygems.org/gems/pg/&quot;&gt;pg&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;deploy&quot;&gt;Deploy&lt;/h3&gt;
+&lt;p&gt;Mina (Recommend) &lt;br /&gt;
+Capistrano 3&lt;/p&gt;
+
+&lt;p&gt;it’s 2016, if possible, don’t use FTP software like FileZilla to deploy.&lt;br /&gt;
+you will get tried very soon.&lt;br /&gt;
+try to automate everything, that’s the beauty of computer right?&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;server&quot;&gt;Server&lt;/h3&gt;
+&lt;p&gt;Unicorn&lt;br /&gt;
+Thin&lt;br /&gt;
+Passanger&lt;br /&gt;
+Puma (I am using this, and it’s Rails 5 default Server)&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;upload-imagefile&quot;&gt;Upload image/file&lt;/h3&gt;
+&lt;p&gt;CarrierWare&lt;br /&gt;
+PaperClip (I am using this)&lt;br /&gt;
+Refile&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;login&quot;&gt;Login&lt;/h3&gt;
+
+&lt;p&gt;[Devise] &lt;br /&gt;
+	Speed up making your own login, like email &amp;amp; password, username &amp;amp; password&lt;/p&gt;
+
+&lt;p&gt;[Omniauth]  &lt;br /&gt;
+	Third party login, like Facebook Twitter Github Google Linkedin&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;test&quot;&gt;Test&lt;/h3&gt;
+&lt;p&gt;Rspec&lt;/p&gt;
+
+&lt;!-- &lt;br/&gt;
+
+### Pagination
+
+Kaminari 
+will_paginate  --&gt;
+
+</description>
+        <pubDate>Fri, 22 Jul 2016 19:33:43 +0800</pubDate>
+        <link>http://localhost:4000/2016/07/22/what-gem-you-should-know-as-a-Rails-newbie.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/07/22/what-gem-you-should-know-as-a-Rails-newbie.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>

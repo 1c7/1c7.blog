@@ -4,22 +4,21 @@ title: About
 permalink: /about/
 ---
 
-### Hi, I'm Cheng Zheng, Web Developer (China)
-Mostly Ruby on Rails these days, Living in China (GuangZhou). born in 1995.  
+### Hi, I'm Cheng Zheng, Web Developer with 2+ year experience
+I am doing mostly Ruby on Rails these days, Living in China (GuangZhou). born in 1995.  
 
 I like remote working and I really like the concept of Indie Hacker (build useful product & make living out of it)
 
 <br/>
 
 ### My <a href="https://www.linkedin.com/in/cheng-zheng-51460259/" target="_blank">Linkedin</a>
-I understand you don't want read Linkedin because it's pretty long.
+I know you don't want read Linkedin because it's long.
 
 
-here's overview:
+so here's overview:
 
 
-I had 5 job, right now is building my side project, and about to get my 6th job.  
-I want a remote Ruby on Rails job  
+I had 5 job
 
 PHP -> PHP -> PHP -> Ruby on Rails -> Ruby on Rails
 <br/>
@@ -27,10 +26,12 @@ PHP -> PHP -> PHP -> Ruby on Rails -> Ruby on Rails
 Remote(Netherland) -> Onsite(Shenzhen) -> Onsite(GuangZhou) -> Remote(Singapore) -> Remote(Seattle, U.S.)
 <br>
 
+Right now (2017 August) is building my side project, and trying to get 6th job (I want a Remote Ruby on Rails job)  
+
 <br/>
 
 ### This site
-Jekyll + Github Pages + custom domain name
+Jekyll + Github Pages + Custom domain
 
 
 
